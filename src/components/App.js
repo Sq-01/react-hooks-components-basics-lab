@@ -30,10 +30,10 @@ function App() {
   return (
     <div>
       <NavBar />
-      <About />
-      <Home />
-      {/* add the <Home> component here */}
-      {/* add your <About> component here */}
+       
+      
+      {/* add the <Home> component here */ <Home />}
+      {/* add your <About> component here */ <About />}
     </div>
   );
 }
